@@ -1,0 +1,9 @@
+# Facebook Sponsored Ads
+facebook.com##[role="feed"] span[id] a[href="#"]:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div):remove()
+
+# Discord's Unreadable Font - Whitney
+support.discord.com##*:style(font-family: Segoe UI !important)
+discohook.org##*:style(font-family: Segoe UI !important)
+
+# Letterboxd Pro Banner
+||a.ltrbxd.com/*m/upload/gd/m5/n8/er/pro-950-o*.png$image
