@@ -1,3 +1,10 @@
+! Title: uBlock Origin Filters by christianavi
+! Version: 0.01
+! Expires: 7 days
+! Description: Just a few filters that the other filter lists may have missed.
+! Homepage: https://github.com/christianavi/uBlock-Origin-Filters/
+
+
 # Facebook Sponsored Ads
 facebook.com##[role="feed"] span[id] a[href="#"]:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div):remove()
 
